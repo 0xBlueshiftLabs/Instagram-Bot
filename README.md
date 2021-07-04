@@ -11,7 +11,7 @@ Designed as a rapid prototype for a client to show proof of concept, this Instag
 and post engagement. The user can specify a particular hashtag they wish to engage with or simply specify a related account with a similar audience. The bot will 
 then automatically follow users and or interact with posts based on the specified inputs, being careful to evade Instagram's stringent bot detection filters by randomly varying time intervals.
 
-During testing, this very bot was used to grow an undisclosed business's new and niche Instagram account to over 3000 engaged followers within several weeks. 
+During testing, this bot was used to grow a small business's new, and niche, Instagram account to over 3000 engaged followers within several weeks. 
 This helped to drive traffic to their ecommerce store whilst simultaneously improving brand awareness.
 
 
