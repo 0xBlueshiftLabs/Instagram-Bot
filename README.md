@@ -45,7 +45,7 @@ This helped to drive traffic to their ecommerce store whilst simultaneously impr
 ## Future work
 
 Due to the dynamic nature of Instagram's forever updating desktop website, ceratin bot functions may begin to fail over time due to the static nature of how the bot intereacts with, and identifies, web page elements.
-By generalising Selenium web page element selection, rather than selecting specific elements by XPath's, the above problem may be mitagated. Making the bot more Instagram update-proof
+By generalising Selenium web page element selection, rather than selecting specific elements by XPath's, the above problem may be mitagated. Making the bot more Instagram update-proof.
   
 
 <!-- LICENSE -->
