@@ -61,11 +61,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
-
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/Instagram-Bot](https://github.com/Elisik/Instagram-Bot)
+Project Link: [https://github.com/0xBlueshiftLabs/Instagram-Bot](https://github.com/0xBlueshiftLabs/Instagram-Bot)
 
 
 
